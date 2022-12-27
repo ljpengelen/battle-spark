@@ -11,7 +11,7 @@
     <name>Spark</name>
 
     <properties>
-        <sparkVersion>2.5.5</sparkVersion>
+        <sparkVersion>2.7.2</sparkVersion>
     </properties>
 
     <build>
